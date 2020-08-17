@@ -1,0 +1,6 @@
+"0","ggplot(hotels_small, aes(x=season, fill=is_canceled)) + "
+"0","  geom_bar(position=""fill"") +"
+"0","  scale_fill_brewer(palette=""Reds"") +"
+"0","  theme_classic() +"
+"0","  labs(x = ""Season"", y = ""Propotion"", fill = ""Is Cancelled"", "
+"0","       title = ""Cancellation vs. Season"")"

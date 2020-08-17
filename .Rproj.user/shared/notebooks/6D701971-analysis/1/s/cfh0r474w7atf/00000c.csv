@@ -1,0 +1,7 @@
+"0",""
+"0","#previous_cancellations"
+"0","previous_cancellations_binned <- arm::binnedplot(x = canceled_m_aug$previous_cancellations, "
+"0","                y = canceled_m_aug$.resid, "
+"0","                col.int = FALSE,"
+"0","                xlab = ""Number of Previous Cancellations"", "
+"0","                main = ""Binned Residual vs. Previous Cancellations"")"

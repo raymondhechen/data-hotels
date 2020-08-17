@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587928700561.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2604615415",
+    "id" : "EF209BA5",
+    "lastKnownWriteTime" : 1588196379,
+    "last_content_update" : 1588196379500,
+    "path" : "~/Documents/Duke/Y2S2/STA 210 - 001 (5812)/Project/final-writeup.Rmd",
+    "project_path" : "final-writeup.Rmd",
+    "properties" : {
+        "cursorPosition" : "536,1046",
+        "scrollLine" : "535"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

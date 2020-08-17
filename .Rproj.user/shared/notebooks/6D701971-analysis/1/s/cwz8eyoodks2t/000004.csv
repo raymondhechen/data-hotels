@@ -1,0 +1,7 @@
+"0",""
+"0","#adr"
+"0","adr_binned <- arm::binnedplot(x = canceled_m_aug$adr, "
+"0","                y = canceled_m_aug$.resid, "
+"0","                col.int = FALSE,"
+"0","                xlab = ""Average Daily Rate"", "
+"0","                main = ""Binned Residual vs. Average Daily Rate"")"

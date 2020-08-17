@@ -1,0 +1,5 @@
+"0","#predicted probabilities"
+"0","pred_probs_binned <- arm::binnedplot(x = canceled_m_aug$.fitted, y = canceled_m_aug$.resid,"
+"0","                xlab = ""Predicted Probabilities"", "
+"0","                main = ""Binned Residual vs. Predicted Values"", "
+"0","                col.int = FALSE)"

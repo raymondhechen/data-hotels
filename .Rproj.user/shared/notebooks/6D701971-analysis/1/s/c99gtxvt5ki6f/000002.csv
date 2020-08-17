@@ -1,0 +1,6 @@
+"0","joined <- inner_join(hotels_small, canceled_m_aug, by = ""obs_num"")"
+"0",""
+"0","ggplot(data = joined, aes(x = reservation_status_date, y = .resid)) + "
+"0","  geom_point(alpha = 0.1) +"
+"0","  labs(x = ""Date of Booking"", y = ""Residuals"", "
+"0","       title = ""Residuals vs. Date of Booking"")"

@@ -1,0 +1,1 @@
+"0","auc <- calc_auc(roc_curve)$AUC"

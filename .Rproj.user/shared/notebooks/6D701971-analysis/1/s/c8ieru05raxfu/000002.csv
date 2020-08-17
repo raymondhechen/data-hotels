@@ -1,0 +1,3 @@
+"0","canceled_m_aug %>%"
+"0","  group_by(season) %>%"
+"0","  summarise(mean_resid = mean(.resid))"

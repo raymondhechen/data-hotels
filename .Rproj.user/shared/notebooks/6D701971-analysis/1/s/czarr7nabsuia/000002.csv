@@ -1,0 +1,2 @@
+"0","ggplot(hotels_small, aes(infants, fill = is_canceled)) + "
+"0","  geom_histogram(position=""fill"", binwidth = 2)"

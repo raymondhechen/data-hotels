@@ -1,0 +1,8 @@
+"0","hotels_small <- subset(hotels,"
+"0","  select = -c(country, agent, company, arrival_date_year, arrival_date_month,"
+"0","              arrival_date_week_number, arrival_date_day_of_month, children,"
+"0","              meal, distribution_channel, previous_bookings_not_canceled,"
+"0","              reserved_room_type, assigned_room_type, days_in_waiting_list, "
+"0","              customer_type, required_car_parking_spaces, total_of_special_requests,"
+"0","              reservation_status, stays_in_weekend_nights, stays_in_week_nights, numinfants,"
+"0","              previous_cancellations, booking_changes))"

@@ -1,0 +1,2 @@
+"0","tidy(select_model, exponentiate = FALSE) %>%"
+"0","  kable(format = ""markdown"", digits = 3)"

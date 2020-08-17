@@ -1,0 +1,6 @@
+"0","ggplot(hotels_small, aes(length_stay)) +"
+"0","  geom_histogram(binwidth = 1, fill= ""darkorange"") +"
+"0","  facet_wrap(vars(is_canceled)) +"
+"0","  xlim(-1,10) +"
+"0","  labs(x = ""Length of Stay (Days)"", y = ""Count"","
+"0","       title = ""Cancellation vs. Length of Stay"")"

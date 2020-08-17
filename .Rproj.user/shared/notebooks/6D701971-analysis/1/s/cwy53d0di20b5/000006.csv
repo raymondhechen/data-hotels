@@ -1,0 +1,7 @@
+"0",""
+"0","#adults"
+"0","adults_binned <- arm::binnedplot(x = canceled_m_aug$adultsCent, "
+"0","                y = canceled_m_aug$.resid, "
+"0","                col.int = FALSE,"
+"0","                xlab = ""Number of Adults"", "
+"0","                main = ""Binned Residual vs. Adults"")"
