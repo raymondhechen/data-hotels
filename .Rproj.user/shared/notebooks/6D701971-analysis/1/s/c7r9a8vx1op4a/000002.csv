@@ -1,8 +1,0 @@
-"0","p2 <- ggplot(hotels_small, aes(adults, fill = is_canceled)) +"
-"0","  geom_histogram(position = ""dodge2"", binwidth = 1) +"
-"0","  xlim(0, 6)"
-"0",""
-"0","p3 <- ggplot(hotels_small, aes(adults, fill = is_canceled)) +"
-"0","  geom_histogram(position = ""fill"", binwidth = 5)"
-"0",""
-"0","p3 + p2"

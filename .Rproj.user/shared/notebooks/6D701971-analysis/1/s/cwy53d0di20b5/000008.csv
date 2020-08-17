@@ -1,7 +1,0 @@
-"0",""
-"0","#lead_time"
-"0","lead_time_binned <- arm::binnedplot(x = canceled_m_aug$lead_time_squared, "
-"0","                y = canceled_m_aug$.resid, "
-"0","                col.int = FALSE,"
-"0","                xlab = ""Lead Time (Days)"", "
-"0","                main = ""Binned Residual vs. Lead Time"")"

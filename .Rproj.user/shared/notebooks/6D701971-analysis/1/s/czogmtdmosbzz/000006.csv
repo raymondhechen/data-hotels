@@ -1,4 +1,0 @@
-"0",""
-"0","canceled_m_aug %>%"
-"0","  group_by(origin) %>%"
-"0","  summarise(mean_resid = mean(.resid))"

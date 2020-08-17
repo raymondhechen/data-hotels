@@ -1,7 +1,0 @@
-"0",""
-"0","#booking_changes"
-"0","booking_changes_binned <- arm::binnedplot(x = canceled_m_aug$booking_changes, "
-"0","                y = canceled_m_aug$.resid, "
-"0","                col.int = FALSE,"
-"0","                xlab = ""Number of Booking Changes"", "
-"0","                main = ""Binned Residual vs. Booking Changes"")"

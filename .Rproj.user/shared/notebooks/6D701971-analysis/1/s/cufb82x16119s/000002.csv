@@ -1,2 +1,0 @@
-"0","# load the data"
-"0","hotels <- read_csv(""data/hotel_bookings.csv"")"
